@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-shutdown",
+  "version": "0.0.1",
+  "description": "this plugin used to android device turn off usign custom UI.",
+  "cordova": {
+    "id": "cordova-plugin-shutdown",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "vivek makwana",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
